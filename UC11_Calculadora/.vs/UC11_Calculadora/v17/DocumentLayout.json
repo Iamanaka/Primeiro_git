@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD107F3-73F9-4EDC-8515-523A4AFCA831}|UC11_Calculadora\\UC11_Calculadora.csproj|c:\\users\\lauro.biamanaka\\source\\repos\\uc11_calculadora\\uc11_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBD107F3-73F9-4EDC-8515-523A4AFCA831}|UC11_Calculadora\\UC11_Calculadora.csproj|solutionrelative:uc11_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD107F3-73F9-4EDC-8515-523A4AFCA831}|UC11_Calculadora\\UC11_Calculadora.csproj|C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\uc11_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FBD107F3-73F9-4EDC-8515-523A4AFCA831}|UC11_Calculadora\\UC11_Calculadora.csproj|solutionrelative:uc11_calculadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\UC11_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "UC11_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\UC11_Calculadora\\Form1.cs",
+              "RelativeToolTip": "UC11_Calculadora\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:53:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\UC11_Calculadora\\Form1.cs",
+              "RelativeDocumentMoniker": "UC11_Calculadora\\Form1.cs",
+              "ToolTip": "C:\\Users\\lauro.biamanaka\\source\\repos\\UC11_Calculadora\\UC11_Calculadora\\Form1.cs [Design]",
+              "RelativeToolTip": "UC11_Calculadora\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T22:37:14.71Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
